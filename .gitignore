@@ -1,0 +1,17 @@
+.vscode/
+cache/
+fonts/
+gui/
+images/
+music/
+saves/
+sounds/
+tl/None/
+/gui.rpy
+/options.rpy
+/patchcheck.rpy
+/screens.rpy
+/script.rpy
+/script_version.txt
+*.rpyc
+*.zip
