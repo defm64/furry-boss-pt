@@ -16,8 +16,9 @@
 <br>
 <h2 align="center">APOIE ESTE TRABALHO</h2>
 
-<a href="https://buymeacoffee.com/defm64"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+<a href="https://ko-fi.com/defm64"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
 <a href="https://apoia.se/defm64"><img src="https://img.shields.io/badge/APOIASE.se-eb4a3b?style=for-the-badge" alt="APOIA.se"/></a>
+<a href="https://buymeacoffee.com/defm64"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 <a href="https://coinsend.to/@defm64"><img src="https://img.shields.io/badge/Criptomoedas-F60?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Criptomoedas"/></a>
 
 </div>
