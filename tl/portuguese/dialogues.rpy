@@ -1,17 +1,17 @@
 ﻿translate portuguese start_ad655d8d:
-    n ""
+    n "Eu não podia acreditar que consegui esse emprego."
 translate portuguese start_d6902791:
-    n ""
+    n "Eu não tinha experiência nenhuma, mas de alguma forma consegui..."
 translate portuguese start_1d159138:
-    n ""
+    n "Tudo graças ao meu amigo, que enviou meu currículo como uma piada."
 translate portuguese start_edde8a31:
-    n ""
+    n "Charlie pensou que seria engraçado, principalmente porque eu vivia reclamando para ele que estava difícil achar um trabalho."
 translate portuguese start_a9a96fe8:
-    n ""
+    n "Eu terminei a faculdade há poucos anos."
 translate portuguese start_1c38b118:
-    n ""
+    n "De lá para cá, tenho trabalhado onde dá, já que poucas empresas estão dispostas a contratar recém-formados para cargos importantes."
 translate portuguese start_290ba2b3:
-    n ""
+    n "Trabalhei como barista em uma cafeteria, como caixa em um cinema e depois em um posto de gasolina, tudo em apenas alguns anos."
 translate portuguese start_6ee6e767:
     n ""
 translate portuguese start_ca4e9d98:
@@ -319,7 +319,7 @@ translate portuguese start_3e189feb:
 translate portuguese start_d31143f9:
     ""
 translate portuguese start_4579211e:
-    ""
+    "Quando ela entrou no escritório, a mulher congelou e olhou em volta para todos com um olhar atencioso."
 translate portuguese start_148ccd21:
     ""
 translate portuguese start_67b3f5d0:
@@ -349,7 +349,7 @@ translate portuguese start_e821f575:
 translate portuguese start_46d59a41:
     t ""
 translate portuguese start_66f00662:
-    ""
+    "Meus colegas de trabalho começaram a conversar como crianças pequenas na frente do professor, discutindo entre si e oferecendo todo tipo de teorias sobre o que havia acontecido."
 translate portuguese start_7af83ca9:
     ""
 translate portuguese start_5af3de52:
@@ -463,7 +463,7 @@ translate portuguese start_bf015414:
 translate portuguese start_6d27dfc2:
     ""
 translate portuguese start_c47af898:
-    ""
+    "Vanessa estava sentada em uma poltrona em frente à mesa, segurando uma caneca nas mãos e estudando algo em sua prancheta, me ignorando completamente."
 translate portuguese start_4f7079f3:
     p ""
 translate portuguese start_d1a98f77:
