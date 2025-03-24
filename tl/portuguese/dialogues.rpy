@@ -13,21 +13,21 @@ translate portuguese start_1c38b118:
 translate portuguese start_290ba2b3:
     n "Trabalhei como barista em uma cafeteria, como caixa em um cinema e depois em um posto de gasolina, tudo em apenas alguns anos."
 translate portuguese start_6ee6e767:
-    n ""
+    n "Charlie, que conseguia persuadir qualquer um sem esforço com sua lábia e sorriso cativante, me disse que minha timidez me fazia parecer pouco confiável para potenciais empregadores."
 translate portuguese start_ca4e9d98:
-    n ""
+    n "Ele estava certo, no entanto, eu nunca me considerei uma pessoa ambiciosa."
 translate portuguese start_98544b41:
-    n ""
+    n "Em vez disso, eu preferia deixar a vida me levar e esperar que o destino agisse. Meus pais e meu melhor amigo não gostavam dessa minha característica."
 translate portuguese start_08b00edb:
-    n ""
+    n "Tenho sorte de ser filho único de pais inteligentes, vindos de boas famílias."
 translate portuguese start_634d001c:
-    n ""
+    n "Eles sempre me elogiavam, dizendo que eu estava destinado a me tornar uma \"pessoa importante, corajosa e poderosa\ no futuro."
 translate portuguese start_1b219666:
-    n ""
+    n "Meus pais tinham uma empresa bem-sucedida e já falavam em me colocar no comando desde os meus cinco anos."
 translate portuguese start_b15d9127:
-    n ""
+    n "Meu pai me apresentava aos amigos e familiares em jantares como seu herdeiro, o que o deixava orgulhoso."
 translate portuguese start_af0f1a19:
-    n ""
+    n "Mas, à medida que fui crescendo, percebi que ser líder não era para mim."
 translate portuguese start_0457cce1:
     n ""
 translate portuguese start_627a4fe1:
