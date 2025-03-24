@@ -29,21 +29,21 @@ translate portuguese start_b15d9127:
 translate portuguese start_af0f1a19:
     n "Mas, à medida que fui crescendo, percebi que ser líder não era para mim."
 translate portuguese start_0457cce1:
-    n ""
+    n "A maioria das pessoas sonha em ser chefia, mas isso não me interessava."
 translate portuguese start_627a4fe1:
-    n ""
+    n "Gerenciar pessoas não era a minha vocação e eu não gostava nem um pouco."
 translate portuguese start_06790c8c:
-    n ""
+    n "Eu tenho esses sentimentos desde a infância, apesar dos esforços dos meus pais em me ensinar a ser um líder e um vencedor."
 translate portuguese start_e303543a:
-    n ""
+    n "Mas, em vez de participar de um clube de debates, eu estava mais interessado em ler e ouvir música."
 translate portuguese start_381babe3:
-    n ""
+    n "Ao invés de estudar gestão e negócios, eu preferia gastar meu tempo navegando na net."
 translate portuguese start_3161b7ea:
-    n ""
+    n "Eu não era muito fã de conversar com pessoas, então o computador era minha melhor opção."
 translate portuguese start_9d9671d5:
-    n ""
+    n "O único amigo que me restou do ensino médio era o Charlie."
 translate portuguese start_fd7720c5:
-    n ""
+    n "Charlie era um cara bacana que costumava fazer meus pedidos em cafés, já que eu era muito tímido para falar com estranhos."
 translate portuguese start_8ba2d154:
     n ""
 translate portuguese start_459803c9:
