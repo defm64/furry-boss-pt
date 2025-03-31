@@ -445,3 +445,5 @@ translate portuguese strings:
     new "English"
     old "Português"
     new "Português"
+    old "My name is..."
+    new "Meu nome é..."
