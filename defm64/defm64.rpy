@@ -76,14 +76,10 @@ screen preferences():
                         textbutton _("Mute All"):
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
-default persistent.language_selected = False
 label splashscreen:
-    if not persistent.language_selected:
-        scene bg cabinet blur with fade
-        menu:
-            "English":
-                $ renpy.change_language(None)
-                $ persistent.language_selected = True
-            "Português":
-                $ renpy.change_language("portuguese")
-                $ persistent.language_selected = True
+    scene bg cabinet blur with fade
+    menu:
+        "English":
+            $ renpy.change_language(None)
+        "Português":
+            $ renpy.change_language("portuguese")
