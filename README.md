@@ -11,7 +11,7 @@
 
 <h3 align="center">Sobre o jogo</h3>
 <a href="https://store.steampowered.com/app/2089060/Furry_Boss/"><img src="https://img.shields.io/badge/Disponível%20na%20Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Disponível na Steam"/></a>
-<a href="https://store.steampowered.com/developer/dirtyfoxgames"><img src="https://img.shields.io/badge/Desenvolvido%20por%20Dirty%20Fox%20Games-000000?style=for-the-badge" alt="Desenvolvido por Dirty Fox Games"/></a>
+<a href="https://store.steampowered.com/developer/dirtyfoxgames"><img src="https://img.shields.io/badge/Desenvolvido%20por%20Dirty%20Fox%20Games-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Desenvolvido por Dirty Fox Games"/></a>
 <a href="https://x.com/DirtyFoxGames"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/></a>
 
 <br>
